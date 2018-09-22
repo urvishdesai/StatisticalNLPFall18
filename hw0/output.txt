@@ -1,5 +1,5 @@
 name:
-   first: Anhad
-   last: Mohananey
-email: anhad@nyu.edu
+   first: Urvish
+   last: Desai
+email: urvish@nyu.edu
 leaderboard: Baseline
