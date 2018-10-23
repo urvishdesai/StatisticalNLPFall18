@@ -1518,8 +1518,8 @@ market	NN
 seems	VBZ
 to	TO
 be	VB
-straightening	NN
-out	RB
+straightening	JJ
+out	NN
 ;	:
 we	PRP
 're	VBP
@@ -1943,7 +1943,7 @@ mean	NN
 and	CC
 the	DT
 mean	JJ
-ol'	DT
+ol'	JJ
 law	NN
 caught	VBN
 up	RP
@@ -2179,7 +2179,7 @@ in	IN
 green	JJ
 and	CC
 gold	NN
-salted	VBD
+salted	VBN
 away	RP
 successes	NNS
 to	TO
@@ -2253,7 +2253,7 @@ Nos.	NNP
 through	IN
 9	CD
 ,	,
-a.k.a.	CC
+a.k.a.	NN
 the	DT
 ``	``
 bottom	NN
@@ -2545,7 +2545,7 @@ this	DT
 Series	NN
 of	IN
 the	DT
-Subway	RB
+Subway	NNP
 Called	VBN
 BART	NNP
 (	(
@@ -2560,7 +2560,7 @@ public	JJ
 conveyance	NN
 than	IN
 ``	``
-Desire	NNP
+Desire	JJ
 ,	,
 ''	''
 do	VBP
@@ -2694,7 +2694,7 @@ Williams	NNP
 ,	,
 a	DT
 Sacramento	NNP
-septuagenarian	JJ
+septuagenarian	NN
 ,	,
 at	IN
 the	DT
@@ -2712,7 +2712,7 @@ a	DT
 triumph	NN
 of	IN
 either	DT
-apathy	PRP
+apathy	JJ
 or	CC
 civility	NN
 .	.
@@ -2780,7 +2780,7 @@ and	CC
 White	NNP
 Sox	NNPS
 (	(
-hey	CC
+hey	RB
 ,	,
 it	PRP
 's	VBZ
@@ -2978,7 +2978,7 @@ equation	NN
 .	.
 
 He	PRP
-smoked	VBN
+smoked	VBD
 Toronto	NNP
 in	IN
 the	DT
@@ -3946,7 +3946,7 @@ said	VBD
 ``	``
 I	PRP
 was	VBD
-woken	VB
+woken	VBN
 up	RP
 every	DT
 hour	NN
@@ -4390,7 +4390,7 @@ are	VBP
 getting	VBG
 pretty	RB
 well	RB
-pasted	VBD
+pasted	VBN
 this	DT
 morning	NN
 ,	,
@@ -4400,7 +4400,7 @@ Smith	NNP
 said	VBD
 .	.
 
-Seconds	NNS
+Seconds	NNP
 later	RB
 ,	,
 a	DT
@@ -4768,7 +4768,7 @@ Street	NNP
 nearby	RB
 .	.
 
-Conversation	NNP
+Conversation	NN
 was	VBD
 subdued	VBN
 as	IN
@@ -5557,7 +5557,7 @@ this	DT
 legislation	NN
 .	.
 
-Aides	NNS
+Aides	NNP
 both	CC
 in	IN
 the	DT
@@ -7204,7 +7204,7 @@ of	IN
 West	NNP
 Germany	NNP
 's	POS
-bluest	JJS
+bluest	JJ
 chips	NNS
 took	VBD
 some	DT
@@ -8623,7 +8623,7 @@ yielding	VBG
 assets	NNS
 such	PDT
 as	IN
-inter-bank	VBP
+inter-bank	JJ
 loans	NNS
 ,	,
 which	WDT
@@ -9851,7 +9851,7 @@ are	VBP
 concluded	VBN
 .	.
 
-Idle	NNP
+Idle	DT
 Thought	NNP
 
 To	TO
@@ -9897,8 +9897,8 @@ guy	NN
 who	WP
 throws	VBZ
 an	DT
-intercept	VB
-'Cause	RB
+intercept	NN
+'Cause	VBP
 his	PRP$
 receiver	NN
 slips	VBZ
@@ -12588,7 +12588,7 @@ new	JJ
 doctor	NN
 's	POS
 ``	``
-bedside	JJ
+bedside	NN
 ''	''
 extension	NN
 .	.
@@ -12797,7 +12797,7 @@ $	$
 55,000	CD
 .	.
 
-CURBING	PDT
+CURBING	$
 WAGE	NN
 BOOSTS	NNS
 will	MD
@@ -13007,7 +13007,7 @@ real	JJ
 -	HYPH
 estate	NN
 values	NNS
-depreciated	JJ
+depreciated	VBN
 ,	,
 the	DT
 council	NN
@@ -13143,7 +13143,7 @@ inventors	NNS
 of	IN
 the	DT
 semiconductor	NN
-microchip	VB
+microchip	NN
 a	DT
 $	$
 350,000	CD
@@ -13156,7 +13156,7 @@ Now	RB
 ,	,
 that	WDT
 's	VBZ
-reactionary	NN
+reactionary	JJ
 :	:
 Letter	NNP
 Carriers	NNPS
@@ -13503,7 +13503,7 @@ Loss	NN
 of	IN
 Customers	NNS
 
-FAST	NNP
+FAST	NN
 -	HYPH
 FOOD	NN
 chicken	NN
@@ -14271,7 +14271,7 @@ dishwasher	NN
 detergent	NN
 and	CC
 puts	VBZ
-Sunlight	NN
+Sunlight	NNP
 on	IN
 its	PRP$
 environmentally	RB
@@ -14461,7 +14461,7 @@ Odds	NNPS
 and	CC
 Ends	NNPS
 
-NEATNESS	NNPS
+NEATNESS	NNP
 does	VBZ
 count	NN
 --	:
@@ -14903,7 +14903,7 @@ matters	NNS
 close	JJ
 to	IN
 ,	,
-er	RB
+er	VB
 ,	,
 home	RB
 ...	:
@@ -15001,8 +15001,8 @@ government	NN
 and	CC
 has	VBZ
 regularly	RB
-advanced	VBN
-anti-recession	NN
+advanced	JJ
+anti-recession	HYPH
 housing	NN
 measures	NNS
 .	.
@@ -18277,7 +18277,7 @@ psychology	NN
 ''	''
 said	VBD
 William	NNP
-Au	IN
+Au	NNP
 Yeung	NNP
 ,	,
 an	DT
@@ -19665,9 +19665,9 @@ almost	RB
 any	DT
 collection	NN
 of	IN
-anti-scientific	JJ
+anti-scientific	HYPH
 ,	,
-anti-pocketbook	NN
+anti-pocketbook	JJ
 nonsense	NN
 can	MD
 pass	VB
@@ -21042,7 +21042,7 @@ the	DT
 cry	NN
 was	VBD
 ``	``
-Pull	IN
+Pull	VB
 your	PRP$
 offers	NNS
 ''	''
@@ -22243,7 +22243,7 @@ Jupiter	NNP
 .	.
 
 The	DT
-anti-defense	DT
+anti-defense	JJ
 Greens	NNS
 wanted	VBD
 a	DT
@@ -25690,7 +25690,7 @@ market	NN
 
 Municipals	NNS
 
-Rebounding	NN
+Rebounding	VBG
 stocks	NNS
 and	CC
 weaker	JJR
@@ -25840,7 +25840,7 @@ measure	NN
 of	IN
 volatility	NN
 is	VBZ
-wrung	VBG
+wrung	VB
 out	RP
 of	IN
 the	DT
@@ -27503,7 +27503,7 @@ revised	JJ
 numbers	NNS
 both	PDT
 include	VBP
-over-allotment	JJ
+over-allotment	NN
 provisions	NNS
 .	.
 
@@ -28155,7 +28155,7 @@ fastest	JJS
 and	CC
 most	RBS
 sensitive	JJ
-monochrome	NN
+monochrome	JJ
 films	NNS
 .	.
 
@@ -28181,7 +28181,7 @@ says	VBZ
 Donald	NNP
 Franz	NNP
 of	IN
-Photofinishing	VBG
+Photofinishing	NNP
 Newsletter	NNP
 .	.
 
@@ -28544,7 +28544,7 @@ the	DT
 campaign	NN
 ,	,
 says	VBZ
-Gap	PRP
+Gap	NNP
 did	VBD
 n't	RB
 intentionally	RB
@@ -28937,7 +28937,7 @@ color	NN
 labs	NNS
 .	.
 
-Intent	NNP
+Intent	JJ
 on	IN
 wooing	VBG
 customers	NNS
@@ -29002,7 +29002,7 @@ how	WRB
 to	TO
 develop	VB
 its	PRP$
-monochrome	NN
+monochrome	JJ
 film	NN
 more	RBR
 efficiently	RB
@@ -29239,7 +29239,7 @@ issue	NN
 celebrating	VBG
 photography	NN
 's	POS
-150th	JJ
+150th	NN
 anniversary	NN
 ,	,
 all	RB
@@ -30228,7 +30228,7 @@ manufacturing	NN
 industries	NNS
 ,	,
 the	DT
-M2	CD
+M2	NNP
 version	NN
 of	IN
 the	DT
@@ -30382,7 +30382,7 @@ market	NN
 has	VBZ
 lost	VBN
 some	DT
-precursory	NN
+precursory	JJ
 power	NN
 ,	,
 analysts	NNS
@@ -32540,7 +32540,7 @@ acquired	VBD
 a	DT
 cotton	NN
 and	CC
-gauze	NN
+gauze	VB
 products	NNS
 division	NN
 from	IN
@@ -33211,7 +33211,7 @@ include	VB
 businesses	NNS
 such	JJ
 as	IN
-McVities	NNP
+McVities	NNS
 biscuits	NNS
 and	CC
 Terry	NNP
@@ -33907,7 +33907,7 @@ crisis	NN
 continued	VBD
 its	PRP$
 inverse	NN
-lockstep	VB
+lockstep	JJ
 with	IN
 the	DT
 dollar	NN
@@ -34763,7 +34763,7 @@ problem	NN
 that	WDT
 had	VBD
 been	VBN
-underpinning	JJ
+underpinning	NN
 prices	NNS
 appeared	VBD
 to	TO
@@ -35210,7 +35210,7 @@ he	PRP
 said	VBD
 .	.
 
-Colder	NN
+Colder	NNP
 weather	NN
 is	VBZ
 being	VBG
@@ -36019,7 +36019,7 @@ earnings	NNS
 to	IN
 $	$
 41.8	CD
-millon	CD
+millon	NN
 ,	,
 or	CC
 66	CD
@@ -37422,7 +37422,7 @@ group	NN
 ,	,
 which	WDT
 makes	VBZ
-infrared	JJ
+infrared	VBN
 sensors	NNS
 ,	,
 military	JJ
@@ -37717,7 +37717,7 @@ broadly	RB
 ,	,
 brandished	VBD
 his	PRP$
-unlit	JJ
+unlit	NN
 cigar	NN
 and	CC
 slapped	VBD
@@ -38165,7 +38165,7 @@ Somerset	NNP
 ,	,
 Wis.	NNP
 ,	,
-Adrian	NNP
+Adrian	JJ
 Sween	NNP
 ,	,
 who	WP
@@ -39222,7 +39222,7 @@ the	DT
 cry	NN
 was	VBD
 ``	``
-Pull	IN
+Pull	VB
 your	PRP$
 offers	NNS
 ''	''
@@ -40315,7 +40315,7 @@ Wallach	NNP
 an	DT
 associate	NN
 of	IN
-ex-Attorney	NN
+ex-Attorney	HYPH
 General	NNP
 Meese	NNP
 ,	,
@@ -41158,7 +41158,7 @@ socks	NNS
 under	IN
 the	DT
 Gold	NN
-Toe	DT
+Toe	NNP
 name	NN
 and	CC
 menswear	NN
@@ -42339,7 +42339,7 @@ in	IN
 Mr.	NNP
 Sim	PRP$
 must	MD
-pare	VBD
+pare	VB
 its	PRP$
 costs	NNS
 and	CC
