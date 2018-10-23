@@ -1012,7 +1012,7 @@ with	IN
 Fidelity	NNP
 .	.
 
-Underneath	NNP
+Underneath	NN
 the	DT
 headline	NN
 ``	``
@@ -1357,7 +1357,7 @@ revisited	VBN
 With	IN
 the	DT
 market	NN
-fluctuating	NN
+fluctuating	VBG
 and	CC
 then	RB
 closing	VBG
@@ -1469,7 +1469,7 @@ campaign	NN
 ``	``
 Leadership	NNP
 by	IN
-Example	NNP
+Example	NN
 .	.
 ''	''
 
@@ -2000,7 +2000,7 @@ that	WDT
 had	VBD
 been	VBN
 done	VBN
-unto	RB
+unto	IN
 similarly	RB
 by	IN
 the	DT
@@ -2179,7 +2179,7 @@ in	IN
 green	JJ
 and	CC
 gold	NN
-salted	VBD
+salted	VBN
 away	RP
 successes	NNS
 to	TO
@@ -2560,7 +2560,7 @@ public	JJ
 conveyance	NN
 than	IN
 ``	``
-Desire	RB
+Desire	JJ
 ,	,
 ''	''
 do	VBP
@@ -2712,7 +2712,7 @@ a	DT
 triumph	NN
 of	IN
 either	DT
-apathy	NN
+apathy	JJ
 or	CC
 civility	NN
 .	.
@@ -3946,7 +3946,7 @@ said	VBD
 ``	``
 I	PRP
 was	VBD
-woken	VB
+woken	VBN
 up	RP
 every	DT
 hour	NN
@@ -4390,7 +4390,7 @@ are	VBP
 getting	VBG
 pretty	RB
 well	RB
-pasted	VBD
+pasted	VBN
 this	DT
 morning	NN
 ,	,
@@ -4400,7 +4400,7 @@ Smith	NNP
 said	VBD
 .	.
 
-Seconds	NNS
+Seconds	NNP
 later	RB
 ,	,
 a	DT
@@ -4768,7 +4768,7 @@ Street	NNP
 nearby	RB
 .	.
 
-Conversation	NN
+Conversation	NNP
 was	VBD
 subdued	VBN
 as	IN
@@ -4963,7 +4963,7 @@ Jaguar	NNP
 PLC	NNP
 ,	,
 Mr.	NNP
-Streeter	NN
+Streeter	NNP
 and	CC
 trader	NN
 Sam	NNP
@@ -8330,7 +8330,7 @@ National	NNP
 formed	VBN
 from	IN
 the	DT
-remnants	VBZ
+remnants	NNS
 of	IN
 of	IN
 the	DT
@@ -9851,7 +9851,7 @@ are	VBP
 concluded	VBN
 .	.
 
-Idle	DT
+Idle	NNP
 Thought	NNP
 
 To	TO
@@ -9878,7 +9878,7 @@ precious	JJ
 hours	NNS
 away	RB
 --	:
-Character	NN
+Character	NNP
 is	VBZ
 what	WP
 you	PRP
@@ -12453,7 +12453,7 @@ the	DT
 other	JJ
 broke	VBD
 his	PRP
-jaw	VBD
+jaw	NN
 with	IN
 a	DT
 baseball	NN
@@ -12478,7 +12478,7 @@ the	DT
 Orioles	NNP
 innocent	JJ
 of	IN
-negligent	NN
+negligent	JJ
 hiring	NN
 ,	,
 and	CC
@@ -13112,7 +13112,7 @@ appraisals	NNS
 ,	,
 to	TO
 deter	VB
-overpaying	JJ
+overpaying	VBG
 ,	,
 rose	VBD
 to	IN
@@ -13156,7 +13156,7 @@ Now	RB
 ,	,
 that	WDT
 's	VBZ
-reactionary	NN
+reactionary	JJ
 :	:
 Letter	NNP
 Carriers	NNPS
@@ -14266,7 +14266,7 @@ example	NN
 ,	,
 it	PRP
 recommends	VBZ
-nonchlorinated	VBD
+nonchlorinated	VBN
 dishwasher	NN
 detergent	NN
 and	CC
@@ -14775,7 +14775,7 @@ spending	NN
 Kent	NNP
 Colton	NNP
 ,	,
-NAHB	DT
+NAHB	NNP
 executive	JJ
 vice	NN
 president	NN
@@ -14903,7 +14903,7 @@ matters	NNS
 close	JJ
 to	IN
 ,	,
-er	VB
+er	NN
 ,	,
 home	RB
 ...	:
@@ -16650,7 +16650,7 @@ and	CC
 its	PRP$
 tendency	NN
 to	IN
-meddle	NN
+meddle	NNS
 in	IN
 the	DT
 leverage	NN
@@ -18181,7 +18181,7 @@ falling	VBG
 and	CC
 Singapore	NNP
 's	POS
-Straits	NNPS
+Straits	NNP
 Times	NNP
 Industrial	NNP
 Index	NNP
@@ -27503,7 +27503,7 @@ revised	JJ
 numbers	NNS
 both	CC
 include	VBP
-over-allotment	JJ
+over-allotment	NN
 provisions	NNS
 .	.
 
@@ -27919,7 +27919,7 @@ fashion	NN
 home	NN
 furnishings	NNS
 and	CC
-cinematography	JJ
+cinematography	NN
 .	.
 
 On	IN
@@ -28791,7 +28791,7 @@ they	PRP
 all	RB
 say	VBP
 `	``
-wow	JJ
+wow	NN
 .	.
 '	''
 
@@ -28937,7 +28937,7 @@ color	NN
 labs	NNS
 .	.
 
-Intent	JJ
+Intent	NNP
 on	IN
 wooing	VBG
 customers	NNS
@@ -29032,7 +29032,7 @@ last	JJ
 month	NN
 a	DT
 complete	JJ
-darkroom	JJ
+darkroom	NN
 starter	JJ
 kit	NN
 targeted	VBN
@@ -30382,7 +30382,7 @@ market	NN
 has	VBZ
 lost	VBN
 some	DT
-precursory	NN
+precursory	JJ
 power	NN
 ,	,
 analysts	NNS
@@ -33565,7 +33565,7 @@ Cuba	NNP
 's	POS
 ``	``
 Afrika	NNP
-Korps	NNS
+Korps	NNP
 ''	''
 from	IN
 Angola	NNP
@@ -38165,7 +38165,7 @@ Somerset	NNP
 ,	,
 Wis.	NNP
 ,	,
-Adrian	JJ
+Adrian	NNP
 Sween	NNP
 ,	,
 who	WP
