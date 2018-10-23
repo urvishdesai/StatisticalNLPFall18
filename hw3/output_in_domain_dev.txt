@@ -56,7 +56,7 @@ Ill.	NNP
 )	)
 ,	,
 would	MD
-prevent	VB
+prevent	VBP
 the	NNP
 Resolution	NN
 Trust	NNP
@@ -70,7 +70,7 @@ by	IN
 having	VBG
 an	,
 RTC	NNP
--	:
+-	HYPH
 owned	VBD
 bank	NN
 or	CC
@@ -1914,8 +1914,8 @@ before	RP
 10,000	CD
 pianos	NNS
 would	MD
-produce	VB
-1,118	TO
+produce	VBP
+1,118	IN
 publishable	(
 rock	VB
 'n'	CC
@@ -2381,10 +2381,10 @@ who	WP
 overcame	VBD
 early	RB
 struggles	VBZ
-to	NN
+to	TO
 permit	NN
 the	DT
-Giants	NNS
+Giants	NNPS
 but	CC
 a	SYM
 run	VBP
@@ -2573,8 +2573,8 @@ would	MD
 have	VB
 been	VBN
 ecstatic	JJ
-over	RB
-the	NN
+over	RP
+the	DT
 proceedings	NNS
 ,	,
 but	CC
@@ -2582,7 +2582,7 @@ they	PRP
 observe	VB
 them	PRP
 in	RP
-relative	NN
+relative	JJ
 calm	VB
 .	.
 
@@ -2780,7 +2780,7 @@ and	CC
 White	NNP
 Sox	NNPS
 (	(
-hey	RB
+hey	VB
 ,	,
 it	PRP
 's	VBZ
@@ -2879,7 +2879,7 @@ two	CD
 moved	VBN
 a	NNP
 runner	NN
-along	RB
+along	RP
 in	RP
 the	DT
 A	NNP
@@ -2890,9 +2890,9 @@ run	VBP
 second	RB
 inning	NN
 ,	,
-and	CC
-homered	JJS
-for	IN
+and	NNP
+homered	MD
+for	RB
 his	PRP$
 team	VB
 's	NNP
@@ -2992,8 +2992,8 @@ walks	VBZ
 and	NNP
 eight	CD
 stolen	JJ
-bases	NNS
-in	RBR
+bases	VBZ
+in	FW
 22	CD
 at	IN
 bats	NNS
@@ -3003,25 +3003,25 @@ continued	VBD
 that	DT
 by	RP
 going	JJ
-3	CD
--	SYM
-for	RP
+3	NNP
 -	VBN
-3	LS
+for	NN
+-	:
+3	NNP
 at	RP
 the	NNP
 plate	NN
 Sunday	NNP
 ,	,
-along	RB
+along	RP
 with	IN
 walking	NN
 ,	,
 stealing	VBG
 a	NNP
-base	NN
-and	CD
-scoring	VBD
+base	VBP
+and	NNP
+scoring	EX
 a	NNP
 run	VB
 .	.
@@ -3953,7 +3953,7 @@ hour	NN
 --	:
 1:30	CD
 ,	,
-2:30	RP
+2:30	VBD
 ,	,
 3:30	WRB
 ,	,
@@ -4529,7 +4529,7 @@ pence	NN
 ,	,
 (	(
 $	$
-13.27	CD
+13.27	,
 )	)
 and	CC
 Mr.	NNP
@@ -4670,8 +4670,8 @@ Smith	NNP
 said	VBN
 ,	,
 almost	RB
-in	RB
-a	NN
+in	FW
+a	CD
 whisper	RP
 ,	,
 ``	``
@@ -4889,13 +4889,13 @@ traded	VBD
 bets	NNS
 on	IN
 how	WRB
-low	JJ
+low	RB
 the	NNP
 New	JJ
 York	NN
-market	NN
+market	VB
 would	MD
-open	NN
+open	JJ
 .	.
 
 In	IN
@@ -9237,20 +9237,20 @@ outstanding	JJ
 said	VBD
 ``	``
 ...	:
-at	RB
-present	VB
+at	RP
+present	VBP
 none	NN
 of	RP
 us	PRP
 believes	VBZ
 an	,
 offer	VB
-for	IN
-less	RB
+for	RP
+less	RBR
 than	RBR
 $	$
 25	CD
-per	FW
+per	IN
 share	VBP
 would	MD
 be	VB
@@ -12294,15 +12294,15 @@ EC	NNP
 ''	''
 pluses	NNS
 :	:
-a	DT
+a	NNP
 push	VB
 for	RP
 job	NN
 training	VBG
 and	CD
-ease	NN
-in	RP
-moving	NN
+ease	VB
+in	RB
+moving	VBG
 and	NNP
 finding	VBG
 workers	NNS
@@ -12419,8 +12419,8 @@ trouble	NN
 began	VBD
 .	.
 
-More	JJR
-taunting	NN
+More	RBR
+taunting	VBG
 in	IN
 the	DT
 parking	NN
@@ -12646,8 +12646,8 @@ incentives	NNS
 .	.
 
 MRA	NNP
-Staffing	NNP
-Systems	NNPS
+Staffing	VBG
+Systems	NNP
 signs	NNS
 up	IN
 nurses	NNS
@@ -12697,7 +12697,7 @@ their	PRP$
 top	JJ
 five	CD
 ``	``
-work	NN
+work	VB
 values	NNS
 .	.
 ''	''
@@ -13106,7 +13106,7 @@ Since	IN
 ,	,
 firms	NNS
 offering	VBG
-prepurchase	NN
+prepurchase	VB
 house	NN
 appraisals	NNS
 ,	,
@@ -13204,7 +13204,7 @@ normal	JJ
 ,	,
 400	NNP
 million	CD
--	SYM
+-	VBN
 share	VB
 ,	,
 up	IN
@@ -13923,9 +13923,9 @@ Soft	NNP
 Sell	VB
 Spots	NNS
 
-CALL	NN
+CALL	NNP
 IT	PRP
-un-advertising	VBG
+un-advertising	JJ
 .	.
 
 Pittsburgh	NNP
@@ -15096,15 +15096,15 @@ $	$
 reduce	VBP
 (	(
 or	CC
-even	RB
+even	RP
 eliminate	VB
 )	)
 FHA	NNP
-down	NN
+down	RBR
 -	VBN
 payment	NN
 requirements	NNS
-and	CC
+and	NNP
 increase	VB
 the	DT
 availability	NN
@@ -15137,7 +15137,7 @@ Administration	NNP
 FmHA	NNP
 )	)
 ;	:
-increase	VBP
+increase	VB
 federal	JJ
 funding	VBG
 and	CC
@@ -15146,8 +15146,8 @@ incentives	NNS
 for	IN
 the	NN
 construction	NN
-of	JJ
-low	NN
+of	RP
+low	JJ
 -	SYM
 income	NN
 and	CC
@@ -15158,7 +15158,7 @@ including	VBG
 $	$
 4	CD
 billion	CD
-in	RB
+in	RBR
 block	NN
 grants	VBZ
 to	NN
@@ -15757,8 +15757,8 @@ story	NN
 ``	``
 And	CC
 Bills	NNS
-to	TO
-Make	VB
+to	IN
+Make	VBP
 Wishes	PDT
 Come	VBN
 True	UH
@@ -16302,7 +16302,7 @@ investor	NN
 as	IN
 their	PRP$
 highly	RB
-margined	VBN
+margined	VBD
 investments	NNS
 in	IN
 the	DT
@@ -19053,7 +19053,7 @@ ban	NN
 chemicals	NNS
 thought	VBD
 to	TO
-deplete	VB
+deplete	JJ
 the	DT
 ozone	NN
 layer	NN
@@ -20640,10 +20640,10 @@ because	IN
 there	RB
 was	VBD
 {	(
-also	NN
+also	RB
 }	)
 a	DT
-lot	NN
+lot	RB
 of	RP
 bargain	NN
 -	HYPH
@@ -20909,10 +20909,10 @@ they	PRP
 just	RB
 took	VBD
 {	(
-the	DT
-market	NN
+the	NNP
+market	VBP
 }	)
-apart	RB
+apart	RP
 .	.
 ''	''
 
@@ -21042,7 +21042,7 @@ the	DT
 cry	NN
 was	VBD
 ``	``
-Pull	VB
+Pull	CC
 your	PRP$
 offers	NNS
 ''	''
@@ -22215,7 +22215,7 @@ Party	NNP
 joined	VBD
 its	PRP$
 ideological	JJ
-soulmates	NNS
+soulmates	VBZ
 Jeremy	NNP
 Rifkin	NNP
 and	CC
@@ -27793,8 +27793,8 @@ here	RB
 
 A	NNP
 .	.
-manual	VB
-typewriters	NN
+manual	JJ
+typewriters	NNS
 ,	,
 B	NNP
 .	.
@@ -34425,7 +34425,7 @@ stock	NN
 market	NN
 did	VBD
 was	VBD
-cause	VB
+cause	NN
 the	NNP
 rise	VB
 to	IN
@@ -34441,7 +34441,7 @@ happened	VBN
 ''	''
 said	VBN
 Mr.	NNP
-Cardillo	HYPH
+Cardillo	)
 .	.
 
 There	EX
@@ -39222,7 +39222,7 @@ the	DT
 cry	NN
 was	VBD
 ``	``
-Pull	VB
+Pull	CC
 your	PRP$
 offers	NNS
 ''	''
@@ -41766,7 +41766,7 @@ Fromstein	POS
 has	VBN
 said	VBN
 was	VBD
-made	VBN
+made	VBD
 under	RB
 Mr.	NNP
 Berry	NN
@@ -42339,7 +42339,7 @@ in	IN
 Mr.	NNP
 Sim	NNP
 must	MD
-pare	VB
+pare	VBD
 its	PRP$
 costs	NNS
 and	CC
@@ -42657,11 +42657,11 @@ rewards	VBZ
 managers	NNS
 who	WP
 produce	VB
-and	NNP
+and	CD
 where	WRB
 decision	NN
 -	HYPH
-making	NN
+making	VBG
 is	RB
 shared	JJ
 .	.
@@ -42874,7 +42874,7 @@ that	IN
 earnings	NNS
 ,	,
 which	WDT
-have	VBP
+have	VB
 marched	VBD
 steadily	RB
 upward	RB
@@ -42892,16 +42892,16 @@ or	CC
 $	$
 1.58	CD
 a	SYM
-share	NN
+share	VBP
 ,	,
 in	RP
 the	NNP
-fiscal	NN
+fiscal	JJ
 year	NN
 just	RB
 ended	VBN
 ,	,
-up	RB
+up	RP
 from	IN
 $	$
 15.2	CD
