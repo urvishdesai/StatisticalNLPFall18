@@ -504,7 +504,7 @@ Oversight	NNP
 Board	NNP
 has	VBZ
 been	VBN
-remiss	NN
+remiss	NNS
 in	IN
 not	RB
 keeping	VBG
@@ -2490,7 +2490,7 @@ fest	JJS
 .	.
 
 The	DT
-stat	VBD
+stat	NN
 to	TO
 reckon	VB
 with	IN
@@ -2545,7 +2545,7 @@ this	DT
 Series	NN
 of	IN
 the	DT
-Subway	RB
+Subway	NNP
 Called	VBN
 BART	NNP
 (	(
@@ -4390,7 +4390,7 @@ are	VBP
 getting	VBG
 pretty	RB
 well	RB
-pasted	VBN
+pasted	VBD
 this	DT
 morning	NN
 ,	,
@@ -4750,7 +4750,7 @@ Only	RB
 half	PDT
 the	DT
 usual	JJ
-lunchtime	JJ
+lunchtime	NN
 crowd	NN
 gathered	VBN
 at	IN
@@ -12567,7 +12567,7 @@ a	DT
 ``	``
 registered	JJ
 care	NN
-technologist	JJS
+technologist	NN
 ,	,
 ''	''
 as	IN
@@ -13112,7 +13112,7 @@ appraisals	NNS
 ,	,
 to	TO
 deter	VB
-overpaying	NN
+overpaying	JJ
 ,	,
 rose	VBD
 to	IN
@@ -14271,7 +14271,7 @@ dishwasher	NN
 detergent	NN
 and	CC
 puts	VBZ
-Sunlight	JJ
+Sunlight	NNP
 on	IN
 its	PRP$
 environmentally	RB
@@ -15313,7 +15313,7 @@ VA	NNP
 and	CC
 FmHA	NNP
 are	VBP
-awash	NN
+awash	JJ
 in	IN
 red	JJ
 ink	NN
@@ -16922,8 +16922,8 @@ but	CC
 they	PRP
 rode	VBD
 the	DT
-tiger	NN
-up	IN
+tiger	VB
+up	RP
 all	DT
 year	NN
 .	.
@@ -26474,7 +26474,7 @@ our	PRP$
 core	JJ
 business	NN
 ,	,
-renting	NN
+renting	VBG
 automobiles	NNS
 in	IN
 the	DT
@@ -27931,7 +27931,7 @@ have	VBP
 been	VBN
 advancing	VBG
 the	DT
-monochrome	NN
+monochrome	JJ
 look	NN
 with	IN
 clothing	NN
@@ -28219,7 +28219,7 @@ Olympic	NNP
 gold	NN
 medalist	JJ
 Florence	NNP
-Griffith	JJ
+Griffith	NNP
 -	HYPH
 Joyner	NNP
 to	TO
@@ -28729,7 +28729,7 @@ His	PRP$
 On	NNP
 -	HYPH
 Broadway	NNP
-Photography	JJ
+Photography	NNP
 studio	NN
 in	IN
 Portland	NNP
@@ -29655,8 +29655,8 @@ Center	NNP
 for	IN
 International	NNP
 Business	NNP
-Cycle	DT
-Research	NN
+Cycle	NNP
+Research	NNP
 here	RB
 ,	,
 reached	VBD
@@ -31382,7 +31382,7 @@ approval	NN
 but	CC
 been	VBN
 ruled	VBN
-anticompetitive	RB
+anticompetitive	JJ
 in	IN
 a	DT
 private	JJ
@@ -37412,7 +37412,7 @@ complements	VBZ
 efforts	NNS
 by	IN
 its	PRP$
-Electro	RB
+Electro	NNP
 -	HYPH
 Optical	JJ
 and	CC
@@ -38356,7 +38356,7 @@ Still	RB
 amid	IN
 all	PDT
 the	DT
-backslapping	NN
+backslapping	VBG
 and	CC
 signs	NNS
 of	IN
@@ -38893,7 +38893,7 @@ n't	RB
 running	VBG
 pell	NN
 -	HYPH
-mell	NN
+mell	JJ
 to	IN
 the	DT
 safety	NN
