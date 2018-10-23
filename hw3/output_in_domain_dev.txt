@@ -1181,7 +1181,7 @@ particularly	RB
 bullish	JJ
 .	.
 
-Taped	VBN
+Taped	VBD
 just	RB
 as	IN
 the	DT
@@ -2908,7 +2908,7 @@ among	IN
 the	DT
 East	NNP
 Bay	NNP
-Bashers	NNS
+Bashers	NNPS
 that	IN
 when	WRB
 he	PRP
@@ -5557,7 +5557,7 @@ this	DT
 legislation	NN
 .	.
 
-Aides	NNS
+Aides	NNP
 both	CC
 in	IN
 the	DT
@@ -8623,7 +8623,7 @@ yielding	VBG
 assets	NNS
 such	PDT
 as	IN
-inter-bank	:
+inter-bank	HYPH
 loans	NNS
 ,	,
 which	WDT
@@ -9897,7 +9897,7 @@ guy	NN
 who	WP
 throws	VBZ
 an	DT
-intercept	IN
+intercept	NN
 'Cause	IN
 his	PRP$
 receiver	NN
@@ -11847,7 +11847,7 @@ are	VBP
 in	IN
 place	NN
 that	IN
-synchronize	JJ
+synchronize	VB
 circuit	NN
 breakers	NNS
 in	IN
@@ -12129,7 +12129,7 @@ York	NNP
 
 A	DT
 UNIFIED	NNP
-EUROPE	PRP
+EUROPE	NNP
 poses	VBZ
 labor	NN
 problems	NNS
@@ -12310,7 +12310,7 @@ workers	NNS
 
 CLUBBING	NNP
 A	NNP
-FAN	PRP
+FAN	NNP
 was	VBD
 n't	RB
 the	DT
@@ -14034,13 +14034,13 @@ such	JJ
 spots	NNS
 as	IN
 ``	``
-Floodlights	WRB
+Floodlights	NNP
 :	:
 Evening	VBG
 Wear	VB
 for	IN
 Urban	NNP
-Structures	NNS
+Structures	NNP
 ''	''
 and	CC
 ``	``
@@ -14164,8 +14164,8 @@ recognition	NN
 ''	''
 
 Retailer	NNP
-Sees	DT
-Pitfalls	NNS
+Sees	NNP
+Pitfalls	NNP
 In	IN
 Environmental	NNP
 Push	VBP
@@ -15015,7 +15015,7 @@ HUD	NNP
 official	NN
 ,	,
 the	DT
-NAHB	PRP
+NAHB	NNP
 remains	VBZ
 susceptible	JJ
 to	IN
@@ -18443,7 +18443,7 @@ Monday	NNP
 decline	NN
 ,	,
 the	DT
-Straits	DT
+Straits	NNP
 Times	NNP
 index	NN
 is	VBZ
@@ -18669,7 +18669,7 @@ as	IN
 investors	NNS
 fled	VBN
 to	IN
-bluechip	NN
+bluechip	VB
 Australian	JJ
 stocks	NNS
 and	CC
@@ -19119,8 +19119,8 @@ Council	NNP
 ,	,
 the	DT
 National	NNP
-Toxics	DT
-Campaign	NN
+Toxics	NNP
+Campaign	NNP
 and	CC
 the	DT
 Citizens	NNPS
@@ -19559,7 +19559,7 @@ passed	VBD
 the	DT
 Prop.	NNP
 65	CD
-anti-toxic	JJ
+anti-toxic	HYPH
 initiative	NN
 .	.
 
@@ -19673,7 +19673,7 @@ can	MD
 pass	VB
 under	IN
 its	PRP$
-rubric	JJ
+rubric	NN
 .	.
 
 Of	RB
@@ -20978,7 +20978,7 @@ their	PRP$
 approval	NN
 .	.
 
-Grinned	VBN
+Grinned	VBD
 Griffith	NNP
 Peck	NNP
 ,	,
@@ -22243,7 +22243,7 @@ Jupiter	NNP
 .	.
 
 The	DT
-anti-defense	DT
+anti-defense	NN
 Greens	NNS
 wanted	VBD
 a	DT
@@ -23189,7 +23189,7 @@ fiscal	JJ
 year	NN
 .	.
 
-Enjoying	VBG
+Enjoying	JJ
 several	JJ
 blockbuster	NN
 movie	NN
@@ -23612,7 +23612,7 @@ its	PRP$
 legislature	NN
 ,	,
 the	DT
-Sejm	IN
+Sejm	NNP
 ,	,
 in	IN
 democratic	JJ
@@ -25905,7 +25905,7 @@ The	DT
 %	NN
 issue	NN
 of	IN
-Triborough	IN
+Triborough	NNP
 Bridge	NNP
 and	CC
 Tunnel	NNP
@@ -26474,7 +26474,7 @@ our	PRP$
 core	JJ
 business	NN
 ,	,
-renting	NN
+renting	VBG
 automobiles	NNS
 in	IN
 the	DT
@@ -27503,7 +27503,7 @@ revised	JJ
 numbers	NNS
 both	PDT
 include	VBP
-over-allotment	JJ
+over-allotment	NN
 provisions	NNS
 .	.
 
@@ -27793,8 +27793,8 @@ here	RB
 
 A	NNP
 .	.
-manual	)
-typewriters	NNS
+manual	NNP
+typewriters	NN
 ,	,
 B	NNP
 .	.
@@ -28219,7 +28219,7 @@ Olympic	NNP
 gold	NN
 medalist	</S>
 Florence	NNP
-Griffith	NN
+Griffith	NNP
 -	HYPH
 Joyner	NNP
 to	TO
@@ -29094,8 +29094,8 @@ It	PRP
 seems	VBZ
 computers	NNS
 as	IN
-hobbies	MD
-have	VB
+hobbies	NNS
+have	VBN
 waned	VBD
 ,	,
 ''	''
@@ -29267,7 +29267,7 @@ Alfred	NNP
 DeBat	NNP
 of	IN
 Professional	NNP
-Photographers	NNS
+Photographers	NNP
 of	IN
 America	NNP
 .	.
@@ -30924,7 +30924,7 @@ position	NN
 THE	DT
 STOCK	NN
 MARKET	NN
-AVOIDED	NNP
+AVOIDED	CC
 a	DT
 repeat	NN
 of	IN
@@ -33211,7 +33211,7 @@ include	VB
 businesses	NNS
 such	JJ
 as	IN
-McVities	NNS
+McVities	NNP
 biscuits	NNS
 and	CC
 Terry	NNP
@@ -33565,7 +33565,7 @@ Cuba	NNP
 's	POS
 ``	``
 Afrika	NNP
-Korps	NNS
+Korps	NNP
 ''	''
 from	IN
 Angola	NNP
@@ -36550,7 +36550,7 @@ G.m.b	NNP
 .	.
 H.	NNP
 ,	,
-Hispanoil	EX
+Hispanoil	NNP
 (	(
 Sumatra	NNP
 )	)
@@ -36999,7 +36999,7 @@ combination	NN
 of	IN
 cash	NN
 ,	,
-Memotec	DT
+Memotec	NNP
 stock	NN
 and	CC
 debentures	NNS
@@ -37258,7 +37258,7 @@ agreed	VBD
 to	TO
 purchase	VB
 the	DT
-Electro	RB
+Electro	NNP
 -	HYPH
 Optics	NNP
 Technology	NNP
@@ -37364,7 +37364,7 @@ In	IN
 addition	NN
 to	IN
 making	VBG
-electro	RB
+electro	NN
 -	HYPH
 optical	JJ
 systems	NNS
@@ -37412,7 +37412,7 @@ complements	VBZ
 efforts	NNS
 by	IN
 its	PRP$
-Electro	RB
+Electro	IN
 -	HYPH
 Optical	JJ
 and	CC
@@ -37422,7 +37422,7 @@ group	NN
 ,	,
 which	WDT
 makes	VBZ
-infrared	VBN
+infrared	JJ
 sensors	NNS
 ,	,
 military	JJ
@@ -38891,7 +38891,7 @@ people	NNS
 were	VBD
 n't	RB
 running	VBG
-pell	NN
+pell	VB
 -	HYPH
 mell	NN
 to	IN
@@ -39578,7 +39578,7 @@ about	RB
 minutes	NNS
 and	CC
 then	RB
-steamed	VBN
+steamed	VBD
 forward	RP
 as	IN
 institutions	NNS
@@ -41677,8 +41677,8 @@ boardroom	NN
 coup	NN
 ,	,
 Mr.	NNP
-Fromstein	</S>
-ousted	VBN
+Fromstein	NNP
+ousted	VBD
 Antony	NNP
 Berry	NNP
 as	IN
@@ -42581,7 +42581,7 @@ held	VBN
 company	NN
 ,	,
 was	VBD
-stagnating	NN
+stagnating	VBG
 under	IN
 the	DT
 management	NN
