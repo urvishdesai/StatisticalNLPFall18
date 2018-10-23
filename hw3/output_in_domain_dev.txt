@@ -1469,7 +1469,7 @@ campaign	NN
 ``	``
 Leadership	NNP
 by	IN
-Example	NN
+Example	NNP
 .	.
 ''	''
 
@@ -2179,7 +2179,7 @@ in	IN
 green	JJ
 and	CC
 gold	NN
-salted	VBN
+salted	VBD
 away	RP
 successes	NNS
 to	TO
@@ -2560,7 +2560,7 @@ public	JJ
 conveyance	NN
 than	IN
 ``	``
-Desire	JJ
+Desire	RB
 ,	,
 ''	''
 do	VBP
@@ -2712,7 +2712,7 @@ a	DT
 triumph	NN
 of	IN
 either	DT
-apathy	JJ
+apathy	NN
 or	CC
 civility	NN
 .	.
@@ -2978,7 +2978,7 @@ equation	NN
 .	.
 
 He	PRP
-smoked	VBD
+smoked	VBN
 Toronto	NNP
 in	IN
 the	DT
@@ -3270,7 +3270,7 @@ for	IN
 the	DT
 quarter	NN
 fell	VBD
-to	TO
+to	IN
 $	$
 93.1	CD
 million	CD
@@ -3589,7 +3589,7 @@ year	NN
 estimates	NNS
 for	IN
 1989	CD
-to	TO
+to	IN
 $	$
 5.35	CD
 a	DT
@@ -3653,7 +3653,7 @@ earnings	NNS
 fell	VBD
 9	CD
 %	NN
-to	TO
+to	IN
 $	$
 264.6	CD
 million	CD
@@ -3680,7 +3680,7 @@ Revenues	NNS
 declined	VBD
 1	CD
 %	NN
-to	TO
+to	IN
 $	$
 4.17	CD
 billion	CD
@@ -3946,7 +3946,7 @@ said	VBD
 ``	``
 I	PRP
 was	VBD
-woken	VBN
+woken	VB
 up	RP
 every	DT
 hour	NN
@@ -4390,7 +4390,7 @@ are	VBP
 getting	VBG
 pretty	RB
 well	RB
-pasted	VBN
+pasted	VBD
 this	DT
 morning	NN
 ,	,
@@ -4400,7 +4400,7 @@ Smith	NNP
 said	VBD
 .	.
 
-Seconds	NNP
+Seconds	NNS
 later	RB
 ,	,
 a	DT
@@ -7204,7 +7204,7 @@ of	IN
 West	NNP
 Germany	NNP
 's	POS
-bluest	JJ
+bluest	JJS
 chips	NNS
 took	VBD
 some	DT
@@ -7386,7 +7386,7 @@ It	PRP
 was	VBD
 big	JJ
 institutions	NNS
-such	PDT
+such	JJ
 as	IN
 Norwich	NNP
 Union	NNP
@@ -8147,7 +8147,7 @@ quarter	NN
 nonperforming	JJ
 assets	NNS
 jumped	VBD
-to	TO
+to	IN
 $	$
 474.1	CD
 million	CD
@@ -8330,7 +8330,7 @@ National	NNP
 formed	VBN
 from	IN
 the	DT
-remnants	NNS
+remnants	VBZ
 of	IN
 of	IN
 the	DT
@@ -8461,7 +8461,7 @@ income	NN
 climbed	VBD
 65	CD
 %	NN
-to	TO
+to	IN
 $	$
 310.9	CD
 million	CD
@@ -8537,9 +8537,9 @@ consumer	NN
 loans	NNS
 .	.
 
-Net	NNP
+Net	NN
 rose	VBD
-to	TO
+to	IN
 $	$
 185.1	CD
 million	CD
@@ -8621,7 +8621,7 @@ low	RB
 -	HYPH
 yielding	VBG
 assets	NNS
-such	PDT
+such	JJ
 as	IN
 inter-bank	JJ
 loans	NNS
@@ -8858,7 +8858,7 @@ net	JJ
 rose	VBD
 17	CD
 %	NN
-to	TO
+to	IN
 $	$
 548.9	CD
 million	CD
@@ -9878,7 +9878,7 @@ precious	JJ
 hours	NNS
 away	RB
 --	:
-Character	NNP
+Character	NN
 is	VBZ
 what	WP
 you	PRP
@@ -9918,7 +9918,7 @@ lips	NNS
 
 --	:
 Dick	NNP
-Emmons	NNP
+Emmons	NNS
 .	.
 
 BancOklahoma	NNP
@@ -10593,7 +10593,7 @@ decline	NN
 of	IN
 19	CD
 %	NN
-to	TO
+to	IN
 $	$
 314.6	CD
 million	CD
@@ -10614,7 +10614,7 @@ revenue	NN
 fell	VBD
 22	CD
 %	NN
-to	TO
+to	IN
 $	$
 296.6	CD
 million	CD
@@ -10637,7 +10637,7 @@ grew	VBD
 ,	,
 however	RB
 ,	,
-to	TO
+to	IN
 $	$
 462.8	CD
 million	CD
@@ -10761,7 +10761,7 @@ revenue	NN
 rose	VBD
 21	CD
 %	NN
-to	TO
+to	IN
 $	$
 580.4	CD
 million	CD
@@ -12453,7 +12453,7 @@ the	DT
 other	JJ
 broke	VBD
 his	PRP
-jaw	NN
+jaw	VBD
 with	IN
 a	DT
 baseball	NN
@@ -12478,7 +12478,7 @@ the	DT
 Orioles	NNP
 innocent	JJ
 of	IN
-negligent	JJ
+negligent	NN
 hiring	NN
 ,	,
 and	CC
@@ -12797,7 +12797,7 @@ $	$
 55,000	CD
 .	.
 
-CURBING	$
+CURBING	NNP
 WAGE	NN
 BOOSTS	NNS
 will	MD
@@ -13156,7 +13156,7 @@ Now	RB
 ,	,
 that	WDT
 's	VBZ
-reactionary	JJ
+reactionary	NN
 :	:
 Letter	NNP
 Carriers	NNPS
@@ -13503,7 +13503,7 @@ Loss	NN
 of	IN
 Customers	NNS
 
-FAST	NN
+FAST	NNP
 -	HYPH
 FOOD	NN
 chicken	NN
@@ -14538,7 +14538,7 @@ TV	NN
 commercials	NNS
 ,	,
 according	VBG
-to	TO
+to	IN
 Video	NNP
 Storyboard	NNP
 Tests	NNP
@@ -14775,7 +14775,7 @@ spending	NN
 Kent	NNP
 Colton	NNP
 ,	,
-NAHB	NNP
+NAHB	DT
 executive	JJ
 vice	NN
 president	NN
@@ -15002,7 +15002,7 @@ and	CC
 has	VBZ
 regularly	RB
 advanced	JJ
-anti-recession	HYPH
+anti-recession	JJ
 housing	NN
 measures	NNS
 .	.
@@ -18669,7 +18669,7 @@ as	IN
 investors	NNS
 fled	VBN
 to	IN
-bluechip	VB
+bluechip	JJ
 Australian	JJ
 stocks	NNS
 and	CC
@@ -19665,7 +19665,7 @@ almost	RB
 any	DT
 collection	NN
 of	IN
-anti-scientific	HYPH
+anti-scientific	JJ
 ,	,
 anti-pocketbook	JJ
 nonsense	NN
@@ -22327,7 +22327,7 @@ sue	VB
 for	IN
 fines	NNS
 against	IN
-all	PDT
+all	DT
 three	CD
 politico	NN
 -	HYPH
@@ -25840,7 +25840,7 @@ measure	NN
 of	IN
 volatility	NN
 is	VBZ
-wrung	VB
+wrung	VBG
 out	RP
 of	IN
 the	DT
@@ -27234,7 +27234,7 @@ contract	NN
 ,	,
 New	NNP
 York	NNP
--	SYM
+-	HYPH
 based	VBN
 Gitano	NNP
 has	VBZ
@@ -27501,9 +27501,9 @@ old	JJ
 and	CC
 revised	JJ
 numbers	NNS
-both	PDT
+both	CC
 include	VBP
-over-allotment	NN
+over-allotment	JJ
 provisions	NNS
 .	.
 
@@ -28217,7 +28217,7 @@ recently	RB
 signed	VBD
 Olympic	NNP
 gold	NN
-medalist	TO
+medalist	JJ
 Florence	NNP
 Griffith	NNP
 -	HYPH
@@ -29032,7 +29032,7 @@ last	JJ
 month	NN
 a	DT
 complete	JJ
-darkroom	NN
+darkroom	JJ
 starter	JJ
 kit	NN
 targeted	VBN
@@ -29267,7 +29267,7 @@ Alfred	NNP
 DeBat	NNP
 of	IN
 Professional	NNP
-Photographers	NNPS
+Photographers	NNP
 of	IN
 America	NNP
 .	.
@@ -29329,7 +29329,7 @@ more	JJR
 than	IN
 7	CD
 %	NN
-to	TO
+to	IN
 $	$
 94.9	CD
 million	CD
@@ -29377,7 +29377,7 @@ a	DT
 increase	NN
 in	IN
 profit	NN
-to	TO
+to	IN
 $	$
 23.6	CD
 million	CD
@@ -29405,7 +29405,7 @@ grew	VBD
 almost	RB
 7	CD
 %	NN
-to	TO
+to	IN
 $	$
 279.1	CD
 million	CD
@@ -30382,7 +30382,7 @@ market	NN
 has	VBZ
 lost	VBN
 some	DT
-precursory	JJ
+precursory	NN
 power	NN
 ,	,
 analysts	NNS
@@ -33346,9 +33346,9 @@ winner	NN
 will	MD
 be	VB
 the	DT
-Marxist	NNP
--	SYM
-dominated	VBN
+Marxist	JJ
+-	HYPH
+dominated	JJ
 SWAPO	NNP
 rebels	NNS
 .	.
@@ -34486,7 +34486,7 @@ rising	VBG
 Finally	RB
 ,	,
 according	VBG
-to	TO
+to	IN
 Mr.	NNP
 Cardillo	NNP
 ,	,
@@ -34779,7 +34779,7 @@ declined	VBD
 cents	NNS
 a	DT
 pound	NN
-to	TO
+to	IN
 $	$
 1.2745	CD
 .	.
@@ -36019,7 +36019,7 @@ earnings	NNS
 to	IN
 $	$
 41.8	CD
-millon	NN
+millon	CD
 ,	,
 or	CC
 66	CD
@@ -37422,7 +37422,7 @@ group	NN
 ,	,
 which	WDT
 makes	VBZ
-infrared	VBN
+infrared	JJ
 sensors	NNS
 ,	,
 military	JJ
@@ -40315,7 +40315,7 @@ Wallach	NNP
 an	DT
 associate	NN
 of	IN
-ex-Attorney	HYPH
+ex-Attorney	JJ
 General	NNP
 Meese	NNP
 ,	,
@@ -40582,7 +40582,7 @@ Korean	JJ
 peninsula	NN
 .	.
 
-Such	PDT
+Such	JJ
 family	NN
 reunions	NNS
 would	MD
@@ -41405,7 +41405,7 @@ Pepperell	NNP
 fell	VBD
 25	CD
 cents	NNS
-to	TO
+to	IN
 $	$
 53.875	CD
 .	.
@@ -42146,7 +42146,7 @@ Overall	RB
 pretax	JJ
 profit	NN
 slid	VBD
-to	TO
+to	IN
 #	$
 18.49	CD
 million	CD
@@ -42337,7 +42337,7 @@ in	IN
 1988	CD
 ,	,
 Mr.	NNP
-Sim	PRP$
+Sim	NNP
 must	MD
 pare	VB
 its	PRP$
