@@ -1012,7 +1012,7 @@ with	IN
 Fidelity	NNP
 .	.
 
-Underneath	IN
+Underneath	WDT
 the	DT
 headline	NN
 ``	``
@@ -4451,7 +4451,7 @@ screens	NNS
 ,	,
 only	RB
 two	CD
-forlorn	JJ
+forlorn	IN
 blue	JJ
 figures	NNS
 remained	VBD
@@ -5557,8 +5557,8 @@ this	DT
 legislation	NN
 .	.
 
-Aides	NNP
-both	CC
+Aides	VBZ
+both	DT
 in	IN
 the	DT
 House	NNP
@@ -9878,7 +9878,7 @@ precious	JJ
 hours	NNS
 away	RB
 --	:
-Character	NNP
+Character	NN
 is	VBZ
 what	WP
 you	PRP
@@ -9898,7 +9898,7 @@ who	WP
 throws	VBZ
 an	DT
 intercept	NN
-'Cause	VB
+'Cause	IN
 his	PRP$
 receiver	NN
 slips	VBZ
@@ -13106,7 +13106,7 @@ Since	IN
 ,	,
 firms	NNS
 offering	VBG
-prepurchase	JJ
+prepurchase	NN
 house	NN
 appraisals	NNS
 ,	,
@@ -13143,7 +13143,7 @@ inventors	NNS
 of	IN
 the	DT
 semiconductor	NN
-microchip	VB
+microchip	NN
 a	DT
 $	$
 350,000	CD
@@ -14271,7 +14271,7 @@ dishwasher	NN
 detergent	NN
 and	CC
 puts	VBZ
-Sunlight	JJ
+Sunlight	JJS
 on	IN
 its	PRP$
 environmentally	RB
@@ -15226,7 +15226,7 @@ or	CC
 congressmen	NNS
 .	.
 
-Indirect	NNP
+Indirect	JJ
 subsidies	NNS
 ,	,
 through	IN
@@ -20952,7 +20952,7 @@ minutes	NNS
 ,	,
 and	CC
 at	IN
-10:25	IN
+10:25	CD
 the	DT
 index	NN
 showed	VBD
@@ -23485,7 +23485,7 @@ Huntsman	NNP
 Holdings	NNP
 ,	,
 acquire	VB
-Aristech	NNP
+Aristech	NN
 in	IN
 a	DT
 friendly	JJ
@@ -29032,7 +29032,7 @@ last	JJ
 month	NN
 a	DT
 complete	JJ
-darkroom	IN
+darkroom	NN
 starter	JJ
 kit	NN
 targeted	VBN
@@ -30228,7 +30228,7 @@ manufacturing	NN
 industries	NNS
 ,	,
 the	DT
-M2	DT
+M2	NNP
 version	NN
 of	IN
 the	DT
@@ -33758,7 +33758,7 @@ Both	DT
 South	NNP
 African	NNP
 and	CC
-SWAPO	DT
+SWAPO	NNP
 extremists	NNS
 are	VBP
 intimidating	JJ
@@ -35210,7 +35210,7 @@ he	PRP
 said	VBD
 .	.
 
-Colder	DT
+Colder	NNP
 weather	NN
 is	VBZ
 being	VBG
@@ -36999,7 +36999,7 @@ combination	NN
 of	IN
 cash	NN
 ,	,
-Memotec	DT
+Memotec	JJ
 stock	NN
 and	CC
 debentures	NNS
