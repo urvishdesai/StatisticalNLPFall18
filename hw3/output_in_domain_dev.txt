@@ -1012,7 +1012,7 @@ with	IN
 Fidelity	NNP
 .	.
 
-Underneath	NN
+Underneath	IN
 the	DT
 headline	NN
 ``	``
@@ -2179,7 +2179,7 @@ in	IN
 green	JJ
 and	CC
 gold	NN
-salted	VBN
+salted	VBD
 away	RP
 successes	NNS
 to	TO
@@ -2978,7 +2978,7 @@ equation	NN
 .	.
 
 He	PRP
-smoked	VBN
+smoked	VBD
 Toronto	NNP
 in	IN
 the	DT
@@ -4400,7 +4400,7 @@ Smith	NNP
 said	VBD
 .	.
 
-Seconds	NNP
+Seconds	NNS
 later	RB
 ,	,
 a	DT
@@ -11444,7 +11444,7 @@ exchanges	NNS
 followed	VBD
 their	PRP$
 own	JJ
-pre-set	HYPH
+pre-set	JJ
 circuit	NN
 breakers	NNS
 and	CC
@@ -12478,7 +12478,7 @@ the	DT
 Orioles	NNP
 innocent	JJ
 of	IN
-negligent	JJ
+negligent	NN
 hiring	NN
 ,	,
 and	CC
@@ -13007,7 +13007,7 @@ real	JJ
 -	HYPH
 estate	NN
 values	NNS
-depreciated	VBN
+depreciated	JJ
 ,	,
 the	DT
 council	NN
@@ -14266,12 +14266,12 @@ example	NN
 ,	,
 it	PRP
 recommends	VBZ
-nonchlorinated	VBN
+nonchlorinated	VBD
 dishwasher	NN
 detergent	NN
 and	CC
 puts	VBZ
-Sunlight	NNP
+Sunlight	NN
 on	IN
 its	PRP$
 environmentally	RB
@@ -14903,7 +14903,7 @@ matters	NNS
 close	JJ
 to	IN
 ,	,
-er	NN
+er	VB
 ,	,
 home	RB
 ...	:
@@ -17059,7 +17059,7 @@ Street	NNP
 regarding	VBG
 excessive	JJ
 financial	JJ
-leveraging	VBG
+leveraging	JJ
 ,	,
 actual	JJ
 legislation	NN
@@ -18181,7 +18181,7 @@ falling	VBG
 and	CC
 Singapore	NNP
 's	POS
-Straits	NNP
+Straits	NNPS
 Times	NNP
 Industrial	NNP
 Index	NNP
@@ -33565,7 +33565,7 @@ Cuba	NNP
 's	POS
 ``	``
 Afrika	NNP
-Korps	NNP
+Korps	NNS
 ''	''
 from	IN
 Angola	NNP
@@ -34610,7 +34610,7 @@ due	JJ
 for	IN
 a	DT
 correction	NN
-anyhow	NN
+anyhow	VB
 ,	,
 following	VBG
 several	JJ
@@ -36538,7 +36538,7 @@ SES	NNP
 Ltd.	NNP
 ,	,
 C.	NNP
-Itoh	IN
+Itoh	NNP
 Energy	NNP
 Co.	NNP
 Ltd.	NNP
@@ -38165,7 +38165,7 @@ Somerset	NNP
 ,	,
 Wis.	NNP
 ,	,
-Adrian	NNP
+Adrian	JJ
 Sween	NNP
 ,	,
 who	WP
