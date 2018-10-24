@@ -1791,7 +1791,7 @@ Terrell	NNP
 's	POS
 whistleblowing	NN
 was	VBD
-stifled	VBN
+stifled	VBD
 by	IN
 them	PRP
 in	IN
@@ -1884,9 +1884,9 @@ when	WRB
 he	PRP
 sold	VBD
 the	DT
-C	$
+C	NNP
 -	HYPH
-4	LS
+4	CD
 to	IN
 Quaddaffi	NNP
 .	.
@@ -2568,7 +2568,7 @@ come	VB
 back	RP
 .	.
 
-Hey	IN
+Hey	WRB
 I	PRP
 just	RB
 love	VBP
@@ -2613,7 +2613,7 @@ searching	VBG
 for	IN
 dog	NN
 food	NN
-info	IN
+info	NN
 and	CC
 found	VBD
 this	DT
@@ -2660,7 +2660,7 @@ You	PRP
 ?	.
 
 You	PRP
-CAN	DT
+CAN	NNS
 Do	VBP
 It	PRP
 .	.
@@ -2772,7 +2772,7 @@ end	NN
 Bob	NNP
 Dylan	NNP
 
-Afraid	JJ
+Afraid	NNPS
 I	PRP
 do	VBP
 n't	RB
@@ -2797,7 +2797,7 @@ Mirror	NNP
 the	DT
 headline	NN
 ,	,
-"	CC
+"	PRP
 Have	VBP
 200,000	CD
 AK47s	NNP
@@ -3500,7 +3500,7 @@ she	PRP
 had	VBD
 been	VBN
 sexually	RB
-assaulted	VBD
+assaulted	VBN
 .	.
 
 "	CC
@@ -3860,8 +3860,8 @@ ON	IN
 POLYGAMY	NNP
 GROUP	NNP
 
-Small	NNP
-polygamous	NN
+Small	JJ
+polygamous	JJ
 groups	NNS
 have	VBP
 existed	VBN
@@ -3890,7 +3890,7 @@ Latter	NNP
 Day	NNP
 Saints	NNS
 (	(
-FLDS	NNP
+FLDS	JJ
 )	)
 separated	JJ
 itself	PRP
@@ -3922,7 +3922,7 @@ of	IN
 Ten	CD
 Most	JJS
 Wanted	VBN
-Fugitives	NNPS
+Fugitives	NNS
 ,	,
 "	CC
 a	DT
@@ -4300,12 +4300,12 @@ taken	VBN
 when	WRB
 dealing	VBG
 with	IN
-polygamous	NN
+polygamous	JJ
 communities	NNS
 .	.
 "	.
 
-http://www.csmonitor.com/2006/0509/p02s01-ussc.html?s=t5	NN
+http://www.csmonitor.com/2006/0509/p02s01-ussc.html?s=t5	VB
 
 Maybe	RB
 I	PRP
@@ -4481,8 +4481,8 @@ course	NN
 law	NN
 enforcement	NN
 has	VBZ
-dragged	VBD
-it's	VBZ
+dragged	VBN
+it's	VBP
 feet	NNS
 when	WRB
 members	NNS
@@ -4664,7 +4664,7 @@ fumarase	JJ
 deficiency	NN
 for	IN
 more	JJR
-info	RB
+info	NN
 .	.
 
 Also	RB
@@ -4685,7 +4685,7 @@ beating	VBG
 his	PRP$
 teen	JJ
 daughter	NN
-unconcious	NN
+unconcious	RB
 when	WRB
 she	PRP
 ran	VBD
@@ -4807,7 +4807,7 @@ Iraq	NNP
 whoopsie	WP
 daisy	NN
 ,	,
-huh	RB
+huh	NN
 ?	.
 
 Christ	NNP
@@ -4859,7 +4859,7 @@ idiots	NNS
 US	NNP
 outsourcing	VBG
 special	JJ
-ops	JJ
+ops	NNS
 ,	,
 intelligence	NN
 to	IN
@@ -5408,7 +5408,7 @@ like	IN
 that	DT
 .	.
 
-http://www.laweekly.com/general/features/satan-loves-you/13454/	JJ
+http://www.laweekly.com/general/features/satan-loves-you/13454/	NNS
 
 "	(
 Another	DT
@@ -5497,7 +5497,7 @@ real	JJ
 morality	NN
 .	.
 
-Praise	RB
+Praise	NNS
 be	VBP
 :	:
 Given	VBN
@@ -5983,8 +5983,8 @@ barren	JJ
 boring	JJ
 .	.
 
-Imaginary	NNP
-good	RB
+Imaginary	JJ
+good	NN
 is	VBZ
 boring	JJ
 ;	:
@@ -6953,9 +6953,9 @@ question	NN
 
 Are	VBP
 the	DT
-adherent	VBD
+adherent	NN
 of	IN
-'	``
+'	''
 Crowleyan	NNP
 Thelema	NNP
 '	POS
@@ -7005,7 +7005,7 @@ the	DT
 '	``
 imaginary	JJ
 '	''
-Whore	NN
+Whore	JJ
 of	IN
 Babalon	NNP
 and	CC
@@ -7421,7 +7421,7 @@ succintly	RB
 making	VBG
 point	NN
 after	IN
-succint	JJ
+succint	NN
 point	NN
 ,	,
 the	DT
@@ -7541,8 +7541,8 @@ into	IN
 Loose	NNP
 Change	NNP
 "	$
--	:
-"	,
+-	HYPH
+"	NN
 Alex	NNP
 Jones	NNP
 "	,
@@ -7572,7 +7572,7 @@ of	IN
 scandals	NNS
 :	:
 
-http://www.dailykos.com/story/2006/5/12/232746/857	NN
+http://www.dailykos.com/story/2006/5/12/232746/857	JJ
 
 =	SYM
 Executive	NNP
@@ -7642,7 +7642,7 @@ May	NNP
 ,	,
 2006	CD
 at	IN
-08:27:46	NNS
+08:27:46	CD
 PM	NNP
 PDT	NNP
 
@@ -8225,7 +8225,7 @@ metaphors	NNS
 a	DT
 bit	NN
 too	RB
-literaly	RB
+literaly	JJ
 .	.
 
 These	DT
@@ -8248,10 +8248,10 @@ humming	VBG
 along	RB
 to	TO
 '	POS
-Onward	JJ
-Christian	JJ
+Onward	NNP
+Christian	NNP
 Soldiers	NNS
-'	''
+'	POS
 .	.
 
 (	(
@@ -8325,7 +8325,7 @@ media	NNS
 are	VBP
 having	VBG
 a	DT
-hissy	JJ
+hissy	PRP$
 fit	NN
 over	IN
 Venezuela	NNP
@@ -8758,7 +8758,7 @@ so	RB
 we	PRP
 sang	VBD
 this	DT
-hymn	NNS
+hymn	NN
 --	:
 this	DT
 is	VBZ
@@ -8808,7 +8808,7 @@ Applause	NN
 )	)
 
 The	DT
-hymn	NNS
+hymn	NN
 was	VBD
 sung	VBN
 at	IN
@@ -8835,7 +8835,7 @@ Wesley	NNP
 boys	NNS
 wrote	VBD
 the	DT
-hymn	NNS
+hymn	NN
 .	.
 
 The	DT
@@ -9834,7 +9834,7 @@ in	IN
 close	JJ
 contact	NN
 with	IN
-al	IN
+al	RB
 -	HYPH
 Zawahiri	NNP
 and	CC
@@ -9909,7 +9909,7 @@ the	DT
 substantial	JJ
 number	NN
 of	IN
-al	IN
+al	RB
 -	HYPH
 Qaeda	NNP
 sympathizers	NNS
@@ -10028,7 +10028,7 @@ border	NN
 .	.
 
 If	IN
-al	IN
+al	RB
 -	HYPH
 Qaeda	NNP
 can	MD
@@ -10042,7 +10042,7 @@ coup	NN
 against	IN
 him	PRP
 by	IN
-Islamist	NN
+Islamist	NNP
 junior	JJ
 officers	NNS
 ,	,
@@ -10438,7 +10438,7 @@ a	DT
 recruiting	VBG
 tool	NN
 for	IN
-al	IN
+al	RB
 -	HYPH
 Qaeda	NNP
 in	IN
@@ -10505,7 +10505,7 @@ actually	RB
 hostile	JJ
 territory	NN
 for	IN
-al	IN
+al	RB
 -	HYPH
 Qaeda	NNP
 ,	,
@@ -10589,8 +10589,8 @@ avoid	VB
 giving	VBG
 al	RB
 -	HYPH
-Qaeda	NNP
-an	,
+Qaeda	VBD
+an	DT
 entree	FW
 .	.
 
@@ -10651,7 +10651,7 @@ favor	NN
 of	IN
 less	RBR
 -	HYPH
-provocative	NN
+provocative	JJ
 local	JJ
 or	CC
 international	JJ
@@ -10676,7 +10676,7 @@ a	DT
 rallying	NN
 cry	NN
 for	IN
-al	IN
+al	RB
 -	HYPH
 Qaeda	NNP
 in	IN
@@ -10722,7 +10722,7 @@ US	NNP
 in	IN
 Iraq	NNP
 than	IN
-al	IN
+al	RB
 -	HYPH
 Qaeda	NNP
 infiltrators	NNS
@@ -10979,7 +10979,7 @@ quietly	RB
 .	.
 
 See	NNP
-http://www.gulf-news.com/Articles/news.asp?ArticleID=97508	NNS
+http://www.gulf-news.com/Articles/news.asp?ArticleID=97508	NN
 
 In	IN
 the	DT
@@ -11044,7 +11044,7 @@ they	PRP
 briefly	RB
 arrested	VBN
 a	DT
-yound	NN
+yound	JJ
 newlywed	JJ
 bride	NN
 .	.
@@ -11254,7 +11254,7 @@ and	CC
 that	IN
 "	$
 the	DT
-Zionists	NNPS
+Zionists	NNS
 have	VBP
 left	VBN
 only	RB
@@ -11711,7 +11711,7 @@ Who	WP
 's	VBZ
 Who	WP
 of	RB
-Neocons	NNPS
+Neocons	NNP
 in	IN
 Iraq	NNP
 helps	VBZ
@@ -11766,8 +11766,8 @@ the	DT
 Iraq	NNP
 War	NNP
 was	VBD
-to	TO
-"	``
+to	IN
+"	,
 protect	VB
 Israel	NNP
 ,	,
@@ -12909,7 +12909,7 @@ themselves	PRP
 They	PRP
 have	VBP
 also	RB
-reestablished	VBN
+reestablished	VBD
 their	PRP$
 historical	JJ
 links	NNS
@@ -13571,7 +13571,7 @@ this	DT
 50	CD
 questions	NNS
 ?	.
-"	)
+"	PRP
 asked	VBD
 Bush	NNP
 .	.
@@ -13710,12 +13710,12 @@ as	IN
 good	JJ
 news	NN
 ,	,
-"	NNP
+"	(
 Gore	NNP
 said	VBD
 .	.
 
-"	NN
+"	CC
 Further	RB
 ,	,
 I	PRP
@@ -14537,7 +14537,7 @@ mainly	RB
 carried	VBD
 out	RP
 by	IN
-al	IN
+al	RB
 -	HYPH
 Gamaa	NNP
 al	IN
@@ -14610,7 +14610,7 @@ The	DT
 hijackers	NNS
 were	VBD
 obviously	RB
-al	NN
+al	RB
 -	HYPH
 Qaeda	NNP
 ,	,
@@ -14619,7 +14619,7 @@ no	DT
 operational	JJ
 links	NNS
 between	IN
-al	IN
+al	RB
 -	HYPH
 Qaeda	NNP
 and	CC
@@ -14637,7 +14637,7 @@ rejected	VBD
 an	DT
 attack	NN
 on	IN
-al	IN
+al	RB
 -	HYPH
 Qaeda	NNP
 bases	NNS
@@ -14866,7 +14866,7 @@ picking	VBG
 up	RP
 from	IN
 radical	JJ
-Islamist	NN
+Islamist	NNP
 terrorists	NNS
 .	.
 
@@ -15148,7 +15148,7 @@ they	PRP
 have	VBP
 put	VBN
 some	DT
-vets	VBZ
+vets	NNS
 up	RP
 to	IN
 making	VBG
@@ -15830,7 +15830,7 @@ that	DT
 period	NN
 .	.
 
-"	(
+"	CC
 All	DT
 Things	NNS
 Considered	VBN
@@ -15881,7 +15881,7 @@ For	IN
 weeks	NNS
 ,	,
 reporters	NNS
-scoured	JJ
+scoured	VBN
 Alabama	NNP
 in	IN
 search	NN
@@ -17232,7 +17232,7 @@ been	VBN
 bitter	JJ
 rivals	NNS
 of	IN
-al	IN
+al	RB
 -	HYPH
 Qaeda	NNP
 during	IN
@@ -17264,7 +17264,7 @@ to	TO
 share	VB
 resources	NNS
 with	IN
-al	IN
+al	RB
 -	HYPH
 Qaeda	NNP
 in	IN
@@ -17303,7 +17303,7 @@ picked	VBD
 up	RP
 "	$
 by	IN
-al	IN
+al	RB
 -	HYPH
 Qaeda	NNP
 .	.
@@ -17324,7 +17324,7 @@ Iraq	NNP
 and	CC
 of	IN
 the	DT
-botching	NN
+botching	VBG
 of	IN
 the	DT
 aftermath	NN
@@ -17472,7 +17472,7 @@ After	IN
 that	DT
 point	NN
 ,	,
-al	NN
+al	RB
 -	HYPH
 Qaeda	NNP
 was	VBD
@@ -17700,7 +17700,7 @@ there	EX
 are	VBP
 hundreds	NNS
 of	IN
-al	IN
+al	RB
 -	HYPH
 Qaeda	NNP
 members	NNS
@@ -17720,10 +17720,10 @@ of	IN
 smaller	JJR
 local	JJ
 radical	JJ
-fundamentalist	NN
+fundamentalist	JJ
 groups	NNS
 with	IN
-al	IN
+al	RB
 -	HYPH
 Qaeda	NNP
 can	MD
@@ -17738,7 +17738,7 @@ the	DT
 Fizazi	NNP
 group	NN
 in	IN
-Tangiers	NNPS
+Tangiers	NNP
 that	IN
 morphed	VBN
 into	IN
@@ -17894,7 +17894,7 @@ new	JJ
 government	NN
 .	.
 
-Az	$
+Az	:
 -	HYPH
 Zaman	NNP
 :	:
@@ -18560,7 +18560,7 @@ my	PRP$
 Weblog	NNP
 .	.
 
-[	NNP
+[	CC
 Am	NNP
 at	IN
 a	DT
@@ -18597,7 +18597,7 @@ Arafat	NNP
 's	POS
 passing	NN
 for	IN
-al	IN
+al	RB
 -	HYPH
 Qaeda	NNP
 has	VBZ
@@ -18776,7 +18776,7 @@ best	JJS
 recruiting	NN
 posters	NNS
 for	IN
-al	IN
+al	RB
 -	HYPH
 Qaida	NNP
 with	IN
@@ -18998,7 +18998,7 @@ the	DT
 news	NN
 that	IN
 the	DT
-Baathists	NNPS
+Baathists	NNS
 continue	VBP
 to	TO
 penetrate	VB
@@ -19941,7 +19941,7 @@ on	IN
 Civil	NNP
 Defence	NNP
 ,	,
-Emergencies	NNPS
+Emergencies	NNS
 and	CC
 Elimination	NNP
 of	IN
@@ -20059,7 +20059,7 @@ April	NNP
 2001	CD
 ,	,
 the	DT
-IAEA	PDT
+IAEA	$
 published	VBN
 Fifteen	NNP
 Years	NNS
@@ -20331,7 +20331,7 @@ http://www.ukrainianweb.com/chernobyl_ukraine.htm	NN
 
 http://www.bullatomsci.org/issues/1993/s93/s93Marples.html	NNS
 
-http://www.calguard.ca.gov/ia/Chernobyl-15%20years.htm	NN
+http://www.calguard.ca.gov/ia/Chernobyl-15%20years.htm	NNS
 
 http://www.infoukes.com/history/chornobyl/gregorovich/index.html	NN
 
@@ -20347,7 +20347,7 @@ http://www.infoukes.com/history/chornobyl/elg/	NN
 
 http://www.world-nuclear.org/info/chernobyl/inf07.htm	NN
 
-http://www.nea.fr/html/rp/chernobyl/conclusions5.html	NN
+http://www.nea.fr/html/rp/chernobyl/conclusions5.html	NNS
 
 http://www.nea.fr/html/rp/chernobyl/c01.html	NN
 
@@ -20858,7 +20858,7 @@ big	JJ
 "	``
 Welcome	UH
 !	.
-"	NNP
+"	)
 to	IN
 Darin	NNP
 Darin	NNP
