@@ -3270,7 +3270,7 @@ for	IN
 the	DT
 quarter	NN
 fell	VBD
-to	TO
+to	IN
 $	$
 93.1	CD
 million	CD
@@ -3589,7 +3589,7 @@ year	NN
 estimates	NNS
 for	IN
 1989	CD
-to	TO
+to	IN
 $	$
 5.35	CD
 a	DT
@@ -8147,7 +8147,7 @@ quarter	NN
 nonperforming	JJ
 assets	NNS
 jumped	VBD
-to	TO
+to	IN
 $	$
 474.1	CD
 million	CD
@@ -8537,9 +8537,9 @@ consumer	NN
 loans	NNS
 .	.
 
-Net	NNP
+Net	NN
 rose	VBD
-to	TO
+to	IN
 $	$
 185.1	CD
 million	CD
@@ -14311,8 +14311,8 @@ chlorine	NN
 is	VBZ
 present	JJ
 in	IN
-all	DT
-major	JJ
+all	PDT
+major	NN
 dishwasher	NN
 detergents	NNS
 .	.
@@ -15449,8 +15449,8 @@ government	NN
 
 It	PRP
 points	VBZ
-to	IN
-the	DT
+to	TO
+the	NNP
 pernicious	JJ
 impact	NN
 of	IN
@@ -27234,7 +27234,7 @@ contract	NN
 ,	,
 New	NNP
 York	NNP
--	SYM
+-	HYPH
 based	VBN
 Gitano	NNP
 has	VBZ
@@ -27502,7 +27502,7 @@ and	CC
 revised	JJ
 numbers	NNS
 both	PDT
-include	VBP
+include	VB
 over-allotment	NN
 provisions	NNS
 .	.
@@ -28217,7 +28217,7 @@ recently	RB
 signed	VBD
 Olympic	NNP
 gold	NN
-medalist	PDT
+medalist	NN
 Florence	NNP
 Griffith	NNP
 -	HYPH
@@ -29377,7 +29377,7 @@ a	DT
 increase	NN
 in	IN
 profit	NN
-to	TO
+to	IN
 $	$
 23.6	CD
 million	CD
@@ -34779,7 +34779,7 @@ declined	VBD
 cents	NNS
 a	DT
 pound	NN
-to	TO
+to	IN
 $	$
 1.2745	CD
 .	.
@@ -40315,7 +40315,7 @@ Wallach	NNP
 an	DT
 associate	NN
 of	IN
-ex-Attorney	TO
+ex-Attorney	JJ
 General	NNP
 Meese	NNP
 ,	,
@@ -41405,7 +41405,7 @@ Pepperell	NNP
 fell	VBD
 25	CD
 cents	NNS
-to	TO
+to	IN
 $	$
 53.875	CD
 .	.
@@ -42337,7 +42337,7 @@ in	IN
 1988	CD
 ,	,
 Mr.	NNP
-Sim	PRP$
+Sim	NNP
 must	MD
 pare	VB
 its	PRP$
