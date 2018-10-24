@@ -1884,9 +1884,9 @@ when	WRB
 he	PRP
 sold	VBD
 the	DT
-C	NNP
+C	$
 -	HYPH
-4	CD
+4	LS
 to	IN
 Quaddaffi	NNP
 .	.
@@ -5083,7 +5083,7 @@ fill	VB
 the	DT
 ranks	NNS
 of	IN
-the	DT
+the	NNP
 youngest	JJS
 Mujahedeen	VBN
 generation	NN
@@ -13270,7 +13270,7 @@ Space	NNP
 and	CC
 Holy	NNP
 War	NNP
-"	.
+"	$
 (	(
 I.B.	NNP
 Tauris	NNP
