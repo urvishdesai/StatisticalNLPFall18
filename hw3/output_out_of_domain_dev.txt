@@ -1006,7 +1006,7 @@ write	VB
 anything	NN
 they	PRP
 like	VBP
-about	RBR
+about	IN
 our	PRP$
 prophet	NN
 ,	,
@@ -2043,7 +2043,7 @@ jobs	NNS
 .	.
 
 In	IN
-'72	$
+'72	CD
 or	CC
 '73	CD
 ,	,
@@ -2450,8 +2450,8 @@ spent	VBN
 much	JJ
 time	NN
 talking	VBG
-to	IN
-the	DT
+to	TO
+the	NNP
 Swifties	NNPS
 gets	VBZ
 the	DT
@@ -4293,8 +4293,8 @@ already	RB
 refer	VB
 to	IN
 it	PRP
-as	IN
-"	$
+as	RB
+"	,
 the	DT
 undeclared	VBD
 World	NNP
@@ -5241,7 +5241,7 @@ head	NN
 of	IN
 the	DT
 "	$
-Family	NNP
+Family	NN
 "	NN
 .	.
 
@@ -7394,7 +7394,7 @@ rule	NN
 of	IN
 law	NN
 in	IN
-a	FW
+a	DT
 totally	RB
 lawless	JJR
 environment	NN
@@ -9471,7 +9471,7 @@ extremist	NN
 Hizb	NNP
 -	HYPH
 e	LS
--	HYPH
+-	VBN
 Islami	NNP
 .	.
 )	)
@@ -10427,7 +10427,7 @@ in	IN
 convincing	VBG
 the	DT
 Hazara	NNP
-Shia	PDT
+Shia	NNP
 candidate	NN
 Mohammed	VBN
 Mohaqeq	NNP
@@ -11424,7 +11424,7 @@ Jammu	NNP
 a	DT
 Buddhist	NNP
 -	SYM
-dominated	VBD
+dominated	VBN
 Ladakh	NNP
 and	CC
 the	DT
@@ -12066,7 +12066,7 @@ the	DT
 Indians	NNPS
 jump	VBP
 to	TO
-his	PRP$
+his	PRP
 commands	NNS
 .	.
 
@@ -12697,7 +12697,7 @@ Kumaratunga	NNP
 and	CC
 the	DT
 reclusive	JJ
-LTTE	$
+LTTE	NNP
 leader	NN
 Velupillai	NNP
 Prabhakaran	NNP
@@ -13345,7 +13345,7 @@ chief	JJ
 General	NNP
 Nirmal	NNP
 Chander	NNP
-Vij	PRP$
+Vij	NNP
 have	VBP
 "	,
 caused	VBD
@@ -13623,7 +13623,7 @@ recent	JJ
 "	$
 coup	NN
 "	$
-by	IN
+by	NN
 Nepalese	JJ
 King	NNP
 Gyanendra	NNP
@@ -14512,7 +14512,7 @@ recent	JJ
 "	$
 coup	NN
 "	$
-by	IN
+by	NN
 Nepalese	JJ
 King	NNP
 Gyanendra	NNP
@@ -14619,8 +14619,8 @@ Intelligence	NNP
 ISI	NNP
 )	)
 and	CC
-outside	NN
--	SYM
+outside	RB
+-	HYPH
 linked	VBN
 Maoists	NNPS
 ,	,
@@ -14775,7 +14775,7 @@ local	JJ
 observers	NNS
 .	.
 
-The	NNP
+The	DT
 biggest	JJS
 LTTE	NNP
 maritime	NN
@@ -14975,8 +14975,8 @@ arrested	VBN
 ,	,
 reportedly	RB
 belonging	VBG
-to	IN
-the	DT
+to	TO
+the	NNP
 Manipur	NNP
 Revolutionary	NNP
 People	NNPS
@@ -15086,7 +15086,7 @@ in	IN
 constructing	VBG
 a	DT
 "	$
-submarine	JJ
+submarine	NN
 "	,
 in	IN
 a	DT
@@ -15209,7 +15209,7 @@ Harkat	NNP
 -	HYPH
 ul	IN
 -	HYPH
-Jehad	VBD
+Jehad	NNP
 -	HYPH
 al	IN
 -	HYPH
@@ -15482,7 +15482,7 @@ contributor	NN
 to	IN
 the	DT
 Washington	NNP
--	SYM
+-	HYPH
 based	VBN
 EIR	NNP
 and	CC
@@ -16112,7 +16112,7 @@ used	VBN
 .	.
 
 "	$
-The	DT
+The	NNP
 Prophet	NNP
 's	POS
 guidance	NN
@@ -16680,7 +16680,7 @@ Sufaat	NNP
 ,	,
 according	VBG
 to	TO
-both	CC
+both	CD
 KSM	NNP
 and	CC
 Hambali	NNP
@@ -17926,7 +17926,7 @@ however	RB
 ,	,
 to	TO
 achieve	VB
-a	FW
+a	DT
 trillion	CD
 spore	NN
 concentration	NN
@@ -18777,7 +18777,7 @@ Al	NNP
 Qaeda	NNP
 's	POS
 "	$
-Chemical	NNP
+Chemical	NN
 Wire	NNP
 Group	NNP
 .	.
@@ -18846,7 +18846,7 @@ but	CC
 the	DT
 phrase	NN
 "	$
-Chemical	NNP
+Chemical	NN
 Wire	NNP
 Group	NNP
 "	,
@@ -19556,7 +19556,7 @@ for	IN
 the	DT
 extradition	NN
 of	IN
-WTC	PDT
+WTC	NNP
 1993	CD
 plotter	NN
 Ramzi	NNP
@@ -19780,7 +19780,7 @@ press	NN
 was	VBD
 telling	VBG
 "	$
-lies	VBZ
+lies	NNS
 "	,
 about	IN
 the	DT
@@ -19925,7 +19925,7 @@ profile	NN
 includes	VBZ
 a	DT
 US	NNP
--	SYM
+-	HYPH
 based	VBN
 supporter	NN
 of	IN
@@ -19967,7 +19967,7 @@ uses	VBZ
 the	DT
 word	NN
 "	$
-domestic	JJ
+domestic	NN
 "	,
 the	DT
 word	NN
@@ -20482,7 +20482,7 @@ Group	NNP
 ,	,
 Zawahiri	NNP
 and	CC
-OBL	PRP$
+OBL	NNP
 are	VBP
 Rahman	NNP
 's	POS
@@ -20756,8 +20756,8 @@ symbolism	NN
 of	IN
 the	DT
 "	$
-Green	NNP
-Birds	NNP
+Green	NN
+Birds	NNPS
 .	.
 "	.
 
@@ -20902,7 +20902,7 @@ Medicine	NNP
 "	$
 Dale	NNP
 "	$
-means	VBZ
+means	NN
 "	,
 river	NN
 valley	NN
@@ -21495,9 +21495,9 @@ to	TO
 file	VB
 an	DT
 Answer	NNP
-to	IN
-the	DT
-Complaint	NN
+to	TO
+the	NNP
+Complaint	NNP
 )	)
 .	.
 
@@ -21874,7 +21874,7 @@ conditions	NNS
 set	VBD
 forth	RB
 in	IN
-UNSC	$
+UNSC	NNP
 Resolution	NNP
 1559	CD
 ,	,
@@ -22247,10 +22247,10 @@ attacks	NNS
 A	DT
 la	JJ
 guerre	VB
-c'est	VBP
+c'est	JJS
 comme	VB
-a	DT
-la	JJ
+a	LS
+la	NNP
 guerre	NN
 !	.
 
