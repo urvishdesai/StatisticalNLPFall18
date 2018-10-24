@@ -1063,7 +1063,7 @@ yesterday	NN
 "	$
 At	RB
 first	LS
-I	PRP
+I	NN
 hid	VBD
 a	DT
 lot	NN
@@ -1885,7 +1885,7 @@ he	PRP
 sold	VBD
 the	DT
 C	$
--	HYPH
+-	VBN
 4	LS
 to	IN
 Quaddaffi	NNP
@@ -5083,7 +5083,7 @@ fill	VB
 the	DT
 ranks	NNS
 of	IN
-the	NNP
+the	DT
 youngest	JJS
 Mujahedeen	NNP
 generation	NN
@@ -7296,7 +7296,7 @@ event	NN
 .	.
 
 Lo	TO
-and	CC
+and	NNP
 behold	NN
 ,	,
 the	DT
@@ -7541,8 +7541,8 @@ into	IN
 Loose	NNP
 Change	NNP
 "	$
--	HYPH
-"	NN
+-	:
+"	,
 Alex	NNP
 Jones	NNP
 "	,
@@ -11248,11 +11248,11 @@ the	DT
 attack	NN
 was	VBD
 "	$
-criminal	JJ
+criminal	NN
 "	,
 and	CC
-that	IN
-"	$
+that	DT
+"	,
 the	DT
 Zionists	NNS
 have	VBP
@@ -13001,7 +13001,7 @@ Iraqi	JJ
 cities	NNS
 such	PDT
 as	IN
-Fallujah	PDT
+Fallujah	NNP
 and	CC
 Ramadi	NNP
 were	VBD
@@ -13270,7 +13270,7 @@ Space	NNP
 and	CC
 Holy	NNP
 War	NNP
-"	$
+"	.
 (	(
 I.B.	NNP
 Tauris	NNP
@@ -17377,8 +17377,8 @@ to	TO
 encompass	VB
 the	DT
 5,000	CD
--	HYPH
-strong	JJ
+-	SYM
+strong	RB
 "	,
 55th	JJ
 Brigade	NNP
@@ -17485,9 +17485,9 @@ Egyptian	JJ
 extremists	NNS
 and	CC
 the	DT
-polyglot	RBS
-Arabs	NNPS
-around	RP
+polyglot	NN
+Arabs	NNS
+around	IN
 Bin	NNP
 Laden	NNP
 ,	,
@@ -17894,7 +17894,7 @@ new	JJ
 government	NN
 .	.
 
-Az	$
+Az	NNP
 -	HYPH
 Zaman	NNP
 :	:
@@ -17947,9 +17947,9 @@ population	NN
 of	IN
 which	WDT
 is	VBZ
-Muslim	RBR
+Muslim	NNP
 (	(
-such	PDT
+such	JJ
 as	IN
 Fallujah	NNP
 )	)
@@ -18106,7 +18106,7 @@ called	VBD
 a	DT
 "	$
 ploy	NN
-"	$
+"	,
 the	DT
 assertaion	NN
 that	IN
@@ -20060,7 +20060,7 @@ April	NNP
 ,	,
 the	DT
 IAEA	$
-published	VBN
+published	JJ
 Fifteen	NNP
 Years	NNS
 after	IN
