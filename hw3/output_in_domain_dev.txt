@@ -3589,7 +3589,7 @@ year	NN
 estimates	NNS
 for	IN
 1989	CD
-to	IN
+to	TO
 $	$
 5.35	CD
 a	DT
@@ -7204,7 +7204,7 @@ of	IN
 West	NNP
 Germany	NNP
 's	POS
-bluest	NN
+bluest	JJ
 chips	NNS
 took	VBD
 some	DT
@@ -11444,7 +11444,7 @@ exchanges	NNS
 followed	VBD
 their	PRP$
 own	JJ
-pre-set	JJ
+pre-set	HYPH
 circuit	NN
 breakers	NNS
 and	CC
@@ -11847,7 +11847,7 @@ are	VBP
 in	IN
 place	NN
 that	IN
-synchronize	JJ
+synchronize	NN
 circuit	NN
 breakers	NNS
 in	IN
@@ -12669,7 +12669,7 @@ subsidized	JJ
 housing	NN
 .	.
 
-TREATING	NNS
+TREATING	NNP
 EMPLOYEES	NNP
 with	IN
 respect	NN
@@ -14266,7 +14266,7 @@ example	NN
 ,	,
 it	PRP
 recommends	VBZ
-nonchlorinated	JJ
+nonchlorinated	VBN
 dishwasher	NN
 detergent	NN
 and	CC
@@ -14540,7 +14540,7 @@ commercials	NNS
 according	VBG
 to	TO
 Video	NNP
-Storyboard	NNP
+Storyboard	NN
 Tests	NNS
 ,	,
 New	NNP
@@ -14786,7 +14786,7 @@ the	DT
 U.S.	NNP
 faces	VBZ
 a	DT
-multifaceted	JJ
+multifaceted	VBN
 housing	NN
 crisis	NN
 --	:
@@ -16311,7 +16311,7 @@ deal	NN
 ''	''
 stocks	NNS
 are	VBP
-jeopardized	JJ
+jeopardized	VBN
 by	IN
 the	DT
 unexpected	JJ
@@ -17253,7 +17253,7 @@ up	RP
 points	NNS
 ,	,
 to	IN
-34903.80	NNS
+34903.80	CD
 as	IN
 investors	NNS
 hailed	VBD
@@ -18669,7 +18669,7 @@ as	IN
 investors	NNS
 fled	VBN
 to	IN
-bluechip	NN
+bluechip	JJ
 Australian	JJ
 stocks	NNS
 and	CC
@@ -19119,7 +19119,7 @@ Council	NNP
 ,	,
 the	DT
 National	NNP
-Toxics	NNPS
+Toxics	NNP
 Campaign	NNP
 and	CC
 the	DT
@@ -19667,7 +19667,7 @@ collection	NN
 of	IN
 anti-scientific	JJ
 ,	,
-anti-pocketbook	JJ
+anti-pocketbook	NN
 nonsense	NN
 can	MD
 pass	VB
@@ -22921,7 +22921,7 @@ and	CC
 Continental	NNP
 .	.
 
-Leery	NN
+Leery	NNP
 of	IN
 the	DT
 costs	NNS
@@ -26474,7 +26474,7 @@ our	PRP$
 core	JJ
 business	NN
 ,	,
-renting	JJ
+renting	VBG
 automobiles	NNS
 in	IN
 the	DT
@@ -27844,7 +27844,7 @@ coming	VBG
 back	RP
 .	.
 
-Trendy	JJ
+Trendy	NNP
 magazine	NN
 advertisements	NNS
 feature	VBP
@@ -29167,7 +29167,7 @@ made	VBN
 the	DT
 same	JJ
 quantum	NN
-leaps	NNS
+leaps	VB
 in	IN
 technological	JJ
 development	NN
@@ -32365,7 +32365,7 @@ microprocessor	NN
 .	.
 
 The	DT
-i860	RP
+i860	VBZ
 ,	,
 introduced	VBD
 earlier	RBR
@@ -32616,7 +32616,7 @@ under	IN
 the	DT
 trade	NN
 name	NN
-ACCO	NNP
+ACCO	NN
 and	CC
 supplies	VBZ
 the	DT
@@ -33211,7 +33211,7 @@ include	VB
 businesses	NNS
 such	JJ
 as	IN
-McVities	NNP
+McVities	NNS
 biscuits	NNS
 and	CC
 Terry	NNP
@@ -34763,7 +34763,7 @@ problem	NN
 that	WDT
 had	VBD
 been	VBN
-underpinning	VBG
+underpinning	NN
 prices	NNS
 appeared	VBD
 to	TO
@@ -37260,8 +37260,8 @@ purchase	VB
 the	DT
 Electro	NNP
 -	HYPH
-Optics	NNPS
-Technology	NNP
+Optics	NNS
+Technology	NN
 division	NN
 of	IN
 Perkin	NNP
@@ -42916,4 +42916,3 @@ million	CD
 in	IN
 1985	CD
 .	.
-
